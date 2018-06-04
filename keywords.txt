@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MD_AButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+IO_write	KEYWORD2
+IO_read	KEYWORD2
+PWM_write	KEYWORD2
+ADC_read	KEYWORD2
+DevIcE_init	KEYWORD2
+vrati_sekunde_asInt	KEYWORD2
+vrati_sekunde	KEYWORD2
+vrati_minute	KEYWORD2
+vrati_sate	KEYWORD2
+vrati_dan	KEYWORD2
+vrati_mjesec	KEYWORD2
+vrati_godinu	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+KEY_NONE	LITERAL1
