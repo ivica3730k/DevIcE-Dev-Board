@@ -265,7 +265,7 @@ int vrati_sekunde_asInt(){
   mcp1.begin(0);
   for (int z = 1; z <= 16; z++){
     
-    IO_write(z,LOW);
+    IO_write(z,INPUT_PULLUP);
     
     if(z <= 5){
      PWM_write(z,0);
