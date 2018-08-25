@@ -3,7 +3,7 @@
 #include "Adafruit_MCP23017.h"
 #include <Wire.h>
 #include "RTClib.h"
-#include "device.h"
+#include "DevIcE.h"
 #define atmega_adr 10
 
 
