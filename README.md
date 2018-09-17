@@ -1,5 +1,5 @@
 # DevIcE-Development-Board
-All materials for DevIcE Development board,created by Ivica 9A3ICE
+All software materials for DevIcE Development board,created by Ivica 9A3ICE
 
 IoT development board currently is based on ESP8266,including:
 SMPS power supply
@@ -14,6 +14,5 @@ Optional HC-05 bluetooth
 
 Board easly programmable trough Arduino IDE
 
-Full board plans available,if you need them feel free to contact me at 
-ivica3730k@outlook.com
+Full board plans available in other Repo.
 
